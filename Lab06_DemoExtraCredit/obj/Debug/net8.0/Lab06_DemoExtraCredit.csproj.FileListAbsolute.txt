@@ -1,0 +1,14 @@
+C:\Users\brook\code1400TA\Lab06_DemoExtraCredit\bin\Debug\net8.0\Lab06_DemoExtraCredit.exe
+C:\Users\brook\code1400TA\Lab06_DemoExtraCredit\bin\Debug\net8.0\Lab06_DemoExtraCredit.deps.json
+C:\Users\brook\code1400TA\Lab06_DemoExtraCredit\bin\Debug\net8.0\Lab06_DemoExtraCredit.runtimeconfig.json
+C:\Users\brook\code1400TA\Lab06_DemoExtraCredit\bin\Debug\net8.0\Lab06_DemoExtraCredit.dll
+C:\Users\brook\code1400TA\Lab06_DemoExtraCredit\bin\Debug\net8.0\Lab06_DemoExtraCredit.pdb
+C:\Users\brook\code1400TA\Lab06_DemoExtraCredit\obj\Debug\net8.0\Lab06_DemoExtraCredit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brook\code1400TA\Lab06_DemoExtraCredit\obj\Debug\net8.0\Lab06_DemoExtraCredit.AssemblyInfoInputs.cache
+C:\Users\brook\code1400TA\Lab06_DemoExtraCredit\obj\Debug\net8.0\Lab06_DemoExtraCredit.AssemblyInfo.cs
+C:\Users\brook\code1400TA\Lab06_DemoExtraCredit\obj\Debug\net8.0\Lab06_DemoExtraCredit.csproj.CoreCompileInputs.cache
+C:\Users\brook\code1400TA\Lab06_DemoExtraCredit\obj\Debug\net8.0\Lab06_DemoExtraCredit.dll
+C:\Users\brook\code1400TA\Lab06_DemoExtraCredit\obj\Debug\net8.0\refint\Lab06_DemoExtraCredit.dll
+C:\Users\brook\code1400TA\Lab06_DemoExtraCredit\obj\Debug\net8.0\Lab06_DemoExtraCredit.pdb
+C:\Users\brook\code1400TA\Lab06_DemoExtraCredit\obj\Debug\net8.0\Lab06_DemoExtraCredit.genruntimeconfig.cache
+C:\Users\brook\code1400TA\Lab06_DemoExtraCredit\obj\Debug\net8.0\ref\Lab06_DemoExtraCredit.dll

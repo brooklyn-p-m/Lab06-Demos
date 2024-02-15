@@ -1,0 +1,14 @@
+C:\Users\brook\code1400TA\Lab06_Demo\bin\Debug\net8.0\Lab06_Demo.exe
+C:\Users\brook\code1400TA\Lab06_Demo\bin\Debug\net8.0\Lab06_Demo.deps.json
+C:\Users\brook\code1400TA\Lab06_Demo\bin\Debug\net8.0\Lab06_Demo.runtimeconfig.json
+C:\Users\brook\code1400TA\Lab06_Demo\bin\Debug\net8.0\Lab06_Demo.dll
+C:\Users\brook\code1400TA\Lab06_Demo\bin\Debug\net8.0\Lab06_Demo.pdb
+C:\Users\brook\code1400TA\Lab06_Demo\obj\Debug\net8.0\Lab06_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brook\code1400TA\Lab06_Demo\obj\Debug\net8.0\Lab06_Demo.AssemblyInfoInputs.cache
+C:\Users\brook\code1400TA\Lab06_Demo\obj\Debug\net8.0\Lab06_Demo.AssemblyInfo.cs
+C:\Users\brook\code1400TA\Lab06_Demo\obj\Debug\net8.0\Lab06_Demo.csproj.CoreCompileInputs.cache
+C:\Users\brook\code1400TA\Lab06_Demo\obj\Debug\net8.0\Lab06_Demo.dll
+C:\Users\brook\code1400TA\Lab06_Demo\obj\Debug\net8.0\refint\Lab06_Demo.dll
+C:\Users\brook\code1400TA\Lab06_Demo\obj\Debug\net8.0\Lab06_Demo.pdb
+C:\Users\brook\code1400TA\Lab06_Demo\obj\Debug\net8.0\Lab06_Demo.genruntimeconfig.cache
+C:\Users\brook\code1400TA\Lab06_Demo\obj\Debug\net8.0\ref\Lab06_Demo.dll
